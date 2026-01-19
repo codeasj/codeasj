@@ -3,7 +3,7 @@ Hi, I’m Anuj Srivastava 👋<br><br>I’m a Software Developer who enjoys buil
 
 
 ## 🌐 Socials:
-![Resume](https://img.shields.io/badge/Resume-blue?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1N_MkmnA23r65v0D_joyw-uONDQ_0OfDY/view)
+[![Resume](https://img.shields.io/badge/Resume-blue?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1N_MkmnA23r65v0D_joyw-uONDQ_0OfDY/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujsrivastava0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeasj@outlook.com)
 
 
