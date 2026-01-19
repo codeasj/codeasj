@@ -14,6 +14,6 @@ Hi, I’m Anuj Srivastava 👋<br><br>I’m a Software Developer who enjoys buil
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeasj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codeasj&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
