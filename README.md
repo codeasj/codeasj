@@ -3,9 +3,6 @@ Hi, I’m Anuj Srivastava 👋<br><br>I’m a Software Developer who enjoys buil
 
 
 ## 🌐 Socials:
-<a href="https://drive.google.com/file/d/1N_MkmnA23r65v0D_joyw-uONDQ_0OfDY/view?usp=drive_link">
-  <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="28" />
-</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujsrivastava0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeasj@outlook.com) 
 
 # 💻 Tech Stack:
