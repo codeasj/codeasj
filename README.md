@@ -4,8 +4,7 @@ Hi, I’m Anuj Srivastava 👋<br><br>I’m a Software Developer who enjoys buil
 
 ## 🌐 Socials:
 [![Resume](https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1N_MkmnA23r65v0D_joyw-uONDQ_0OfDY/view)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Srivastava-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anujsrivastava0)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:codeasj@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujsrivastava0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeasj@outlook.com)
 
 
 # 💻 Tech Stack:
